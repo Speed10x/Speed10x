@@ -39,10 +39,6 @@ Here's a bit more about me:
 - ❤  [Auto Filter](https://github.com/Speed10x/Riya_V5.1-Backup-) - ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴜᴛᴏғɪʟᴛᴇʀ bot + ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴀɴᴅ ɪ ʜᴀᴠᴇ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 - 📽️ [File Store](https://github.com/Speed10x/FileStore-Sneha-V3) - A Telegram Advance Bot to store Posts and Documents and it can Access by Special Links. 
 
-  _and more!_
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codeflix-bots)](https://github.com/codeflix-bots/github-readme-stats)
-
 ---
 
 ## Here is tech stacks I know and use 🛠
@@ -77,8 +73,8 @@ I enjoy collaborating with other developers and learning from their experiences.
 
 You can connect with me on various platforms:
 
-- [![telegram](https://img.shields.io/badge/Yato-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/maximize0)
-- [![gmail](https://img.shields.io/badge/Codeflix_Bots-Gmail-red?style=for-the-badge&logo=gmail)](mailto:princeaemyyt@gmail.com)
+- [![telegram](https://img.shields.io/badge/Nick-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/maximize0)
+- [![gmail](https://img.shields.io/badge/Primeflix-Gmail-red?style=for-the-badge&logo=gmail)](mailto:princeaemyyt@gmail.com)
 
 <br>
 
