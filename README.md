@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-    ──「𝖢𝗈𝖽𝖾𝖿𝗅𝗂𝗑 𝖡𝗈𝗍𝗌 𝖯𝗋𝗈𝖿𝗂𝗅𝖾 」──
+    ──「Speed 10x 𝖯𝗋𝗈𝖿𝗂𝗅𝖾 」──
 </h2>
 
 <div style="display: flex;">
@@ -16,7 +16,7 @@ I like to follow the people with good projects but little followers. 😊
 
 Here's a bit more about me:
 <p align="center">
-<img src="https://graph.org/file/fdc47d088a48eb981c713.jpg">
+<img src="https://te.legra.ph/file/ff723c97db78d93ed2c4a-f6fd9a868aaae33953.jpg">
 </p>
 
 <br>
@@ -36,9 +36,8 @@ Here's a bit more about me:
 
 ## Here is some of the projects I've worked on
 
-- ❤  [Auto Filter](https://github.com/codeflix-bots/autofilter) - ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴜᴛᴏғɪʟᴛᴇʀ bot + ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴀɴᴅ ɪ ʜᴀᴠᴇ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
-- 📽️ [File Store](https://github.com/codeflix-bots/filestore) - A Telegram Advance Bot to store Posts and Documents and it can Access by Special Links. 
-- 📁 [Auto Rename](https://github.com/codeflix-bots/AutoRename) - ᴛʜᴇ auto ʀᴇɴᴀᴍᴇ ʙᴏᴛ! ᴡʜɪᴄʜ ᴄᴀɴ ᴀᴜᴛᴏʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ғɪʟᴇs ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ ᴀɴᴅ ᴛʜᴜᴍʙɴᴀɪʟ.
+- ❤  [Auto Filter](https://github.com/Speed10x/Riya_V5.1-Backup-) - ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴜᴛᴏғɪʟᴛᴇʀ bot + ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴀɴᴅ ɪ ʜᴀᴠᴇ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
+- 📽️ [File Store](https://github.com/Speed10x/FileStore-Sneha-V3) - A Telegram Advance Bot to store Posts and Documents and it can Access by Special Links. 
 
   _and more!_
 
@@ -78,8 +77,8 @@ I enjoy collaborating with other developers and learning from their experiences.
 
 You can connect with me on various platforms:
 
-- [![telegram](https://img.shields.io/badge/Yato-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/cosmic_freak)
-- [![gmail](https://img.shields.io/badge/Codeflix_Bots-Gmail-red?style=for-the-badge&logo=gmail)](mailto:codeflixbots@gmail.com)
+- [![telegram](https://img.shields.io/badge/Yato-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/maximize0)
+- [![gmail](https://img.shields.io/badge/Codeflix_Bots-Gmail-red?style=for-the-badge&logo=gmail)](mailto:princeaemyyt@gmail.com)
 
 <br>
 
